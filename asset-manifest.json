@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EmilyGavrilenko/Test-Yaza.git/static/css/main.073c9b0a.css",
-    "main.js": "/EmilyGavrilenko/Test-Yaza.git/static/js/main.315b1469.js",
-    "static/media/night_sky.jpeg": "/EmilyGavrilenko/Test-Yaza.git/static/media/night_sky.110a040bb39c80e368cc.jpeg",
-    "static/media/logo.png": "/EmilyGavrilenko/Test-Yaza.git/static/media/logo.256904650d9371b3ce8e.png",
-    "index.html": "/EmilyGavrilenko/Test-Yaza.git/index.html",
-    "main.073c9b0a.css.map": "/EmilyGavrilenko/Test-Yaza.git/static/css/main.073c9b0a.css.map",
-    "main.315b1469.js.map": "/EmilyGavrilenko/Test-Yaza.git/static/js/main.315b1469.js.map"
+    "main.css": "/Test-Yaza/static/css/main.073c9b0a.css",
+    "main.js": "/Test-Yaza/static/js/main.66de1370.js",
+    "static/media/night_sky.jpeg": "/Test-Yaza/static/media/night_sky.110a040bb39c80e368cc.jpeg",
+    "static/media/logo.png": "/Test-Yaza/static/media/logo.256904650d9371b3ce8e.png",
+    "index.html": "/Test-Yaza/index.html",
+    "main.073c9b0a.css.map": "/Test-Yaza/static/css/main.073c9b0a.css.map",
+    "main.66de1370.js.map": "/Test-Yaza/static/js/main.66de1370.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.315b1469.js"
+    "static/js/main.66de1370.js"
   ]
 }
